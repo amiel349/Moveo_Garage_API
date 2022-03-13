@@ -60,6 +60,10 @@ For installing the garage system please follow the instructions below:
   ## Tests
   This ptoject includes a Junits tests : RestServiceApplicationTests
   To run the tests go to the directory - Test -and run this class 
+  
+  ## Swagger Documentation
+  To see the swagger documentation of the project, run again the application and insert this url in your browser
+  http://localhost:8080/swagger-ui.html#/
 
 
 
